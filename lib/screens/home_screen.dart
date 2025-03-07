@@ -100,13 +100,6 @@ class HomeScreen extends StatelessWidget {
                 ),
               ],
             ),
-            Text(
-              'See All',
-              style: TextStyle(
-                color: Color(0xFF3498DB),
-                fontSize: 14,
-              ),
-            ),
           ],
         ),
         const SizedBox(height: 15),
@@ -210,13 +203,6 @@ class HomeScreen extends StatelessWidget {
                   ),
                 ),
               ],
-            ),
-            const Text(
-              'See All',
-              style: TextStyle(
-                color: Color(0xFF3498DB),
-                fontSize: 14,
-              ),
             ),
           ],
         ),
@@ -324,13 +310,6 @@ class HomeScreen extends StatelessWidget {
                   ),
                 ),
               ],
-            ),
-            const Text(
-              'See All',
-              style: TextStyle(
-                color: Color(0xFF3498DB),
-                fontSize: 14,
-              ),
             ),
           ],
         ),
